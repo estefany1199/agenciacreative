@@ -282,7 +282,7 @@ font-family: 'Roboto', sans-serif;
 }
 
 .header {
-  background-image: url(img/portafolio/01-thumbnail.jpg);
+  background-image: url(img/header-bg.jpg);
   background-position: center;
   background-size: cover;
   height: 100vh;
